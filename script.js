@@ -43,3 +43,28 @@
 // };
 
 // console.log(string(4, 'x'));
+ 
+// ! 5-masala
+// let satr = 'salom';
+// let reversed = satr.split('').reverse().join('');
+// console.log('teskarisi', reversed);
+
+// ! 6-masala
+// let text = "salom";
+// let N = 3;
+// function getStringStars(str, N) {
+//     let yulduz = "";
+
+//     for (let i = 0; i < str.length; i++) {
+//         yulduz += str[i];
+
+//         if (i < str.length - 1) {
+//             yulduz += "*".repeat(N); 
+//         }
+//     }
+
+//     return yulduz;
+// }
+
+// console.log(getStringStars(text, N)); 
+
